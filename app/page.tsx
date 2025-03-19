@@ -122,7 +122,7 @@ export default function Home() {
                       label="Quantity in Hand"
                     />
                     <SummaryItems
-                      icon="/On The Way.png"
+                      icon="/Otw.png"
                       amount="200"
                       label="To be received"
                       isLast={true}
